@@ -1,62 +1,72 @@
 # Hi, I'm Ahmed 👋
 
-### Web Developer | JavaScript | Firebase | Software Testing
+### Web Developer | JavaScript | Firebase | Software Quality Assurance
 
-I'm a developer who enjoys building practical web applications, solving technical problems, and improving software quality.
+I'm a self-driven developer focused on building practical web applications, browser-based development tools, and software quality solutions.
 
-I work with modern web technologies and use my projects to develop practical experience in frontend development, Firebase integration, and software testing.
+I enjoy turning ideas into working products, solving technical challenges, and improving the reliability and usability of web applications.
 
 ## 🚀 Featured Projects
 
-### 🏢 Smart Company
+### 🏢 Smart Company — Company Management Platform
 
-A web application designed to support company management, team collaboration, and digital workplace organization.
+A web application designed to organize company operations, team collaboration, employee management, and digital workplace workflows.
 
-**Technologies:** HTML, CSS, JavaScript, Firebase Authentication, Cloud Firestore.
+**Key Technologies:** HTML, CSS, JavaScript, Firebase Authentication, Cloud Firestore.
 
-🔗 **Live Demo:** [Smart Company](https://smart-company-a9e79.web.app)
+🔗 **Live Application:** https://smart-company-a9e79.web.app
 
-### 💻 Adventure Code
+📂 **Source Code:** https://github.com/ahmedddgad0-alt/smart-company
 
-A browser-based code editor designed to help users write, organize, and run code through a web interface.
+### 💻 Adventure Code — Browser-Based Code Editor
 
-**Focus:** Web development tools, code editing, and browser-based development.
+A web-based coding environment designed to help users write, organize, and run code through a browser, with a focus on accessibility across mobile and desktop devices.
 
-🔗 **Live Demo:** [Adventure Code](https://cscode-b626a.web.app/)
+**Focus Areas:** Web development, code editing, project organization, and browser-based development tools.
 
-### 🧪 QA Coverage Auditor
+🔗 **Live Application:** https://cscode-b626a.web.app/
 
-A software quality tool focused on organizing project requirements, test cases, test evidence, and test coverage.
+### 🧪 QA Coverage Auditor — Software Testing Tool
 
-**Focus:** Quality assurance, test documentation, and requirements traceability.
+A software quality tool designed to help organize project requirements, test cases, test evidence, and test coverage.
+
+**Focus Areas:** Quality assurance, requirements traceability, test documentation, and test automation concepts.
 
 ## 🛠️ Technical Skills
 
-* **Frontend:** HTML5, CSS3, JavaScript
+* **Languages:** HTML5, CSS3, JavaScript
 * **Backend Services:** Firebase Authentication, Cloud Firestore
-* **Web Development:** Responsive interfaces, Progressive Web Apps (PWA)
-* **Software Quality:** Functional testing, bug reporting, test documentation
-* **Tools:** Git, GitHub, Browser Developer Tools
+* **Web Technologies:** Responsive Web Design, Progressive Web Apps (PWA)
+* **Testing & QA:** Functional Testing, Test Case Design, Bug Reporting, Test Evidence, Requirements Traceability
+* **Developer Tools:** Git, GitHub, Browser Developer Tools
+* **Deployment:** Firebase Hosting, GitHub Pages
 
 ## 🏅 Certifications
 
 * **TOFAS — JavaScript Level 2** | July 2026
 * **TOFAS — JavaScript Level 3** | July 2026
 
-## 🎯 Professional Interests
-
-I'm interested in opportunities involving:
+## 🎯 Areas of Interest
 
 * Junior Web Development
-* JavaScript Development
-* Firebase-Based Applications
-* Software Quality Assurance (QA)
+* JavaScript Application Development
+* Firebase-Powered Web Applications
+* Software Quality Assurance
 * Manual Web Application Testing
+* Building Tools for Developers
 
-I enjoy learning new technologies, solving practical problems, and contributing to projects that deliver useful solutions.
+## 🤝 Open to Opportunities
 
-## 🤝 Let's Connect
+I'm interested in suitable junior development opportunities, software testing projects, and collaborations with teams building useful web products.
 
-I'm open to discussing suitable opportunities, collaborating on web projects, and contributing to software development and testing.
+I value practical problem-solving, continuous learning, and writing maintainable code.
 
-**GitHub:** [@ahmedddgad0-alt](https://github.com/ahmedddgad0-alt)
+## 📬 Contact & Links
+
+* **GitHub:** https://github.com/ahmedddgad0-alt
+* **Smart Company:** https://smart-company-a9e79.web.app
+* **Adventure Code:** https://cscode-b626a.web.app/
+
+---
+
+*Building practical solutions, one project at a time.*
